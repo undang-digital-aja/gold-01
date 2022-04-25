@@ -291,6 +291,6 @@ footerBox.forEach((n, i) => {
 
 AOS.init({
 	duration: 1500,
-	once: false,  
+	once: true,  
 });
 // ===== end aos animate ===== //
