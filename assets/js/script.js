@@ -273,7 +273,7 @@ galleryBox.forEach((img, i) => {
 
 // 13. video -> .video__container
 
-// 14. groomsmen & bridesmaid -> .maids__nav, .maids__container
+// 14. groomsmen & bridesmaid -> .maids__nav, .maids__sections
 
 // 15. prokes 
 const prokesBox = document.querySelectorAll('.prokes__box');
